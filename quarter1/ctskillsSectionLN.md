@@ -41,9 +41,6 @@ Divide the queue into ticket assignment, waiting, serving, and exit, so each ste
 
  
 
-
-
-
 Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
 
@@ -65,5 +62,3 @@ Else
 End if
 
 END
-
-
